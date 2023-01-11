@@ -15,9 +15,9 @@ public class SrBatataMenu {
                 add(new Batata("Batata Rustica", 15.00, 0, "Jr"));
                 add(new Batata("Batata Rustica", 18.00, 0, "Pleno"));
                 add(new Batata("Batata Rustica", 20.00, 0, "Senior"));
-                add(new Batata("Batata com cheddar", 22.00, 0, "Jr"));
-                add(new Batata("Batata com cheddar", 25.00, 0, "Pleno"));
-                add(new Batata("Batata com cheddar", 28.00, 0, "Senior"));
+                add(new Batata("Batata com bacon cheddar", 22.00, 0, "Jr"));
+                add(new Batata("Batata com bacon cheddar", 25.00, 0, "Pleno"));
+                add(new Batata("Batata com bacon cheddar", 28.00, 0, "Senior"));
                 add(new Batata("Batata com cheddar", 30.00, 0, "Jr"));
                 add(new Batata("Batata com cheddar", 38.00, 0, "Pleno"));
                 add(new Batata("Batata com cheddar", 40.00, 0, "Senior"));

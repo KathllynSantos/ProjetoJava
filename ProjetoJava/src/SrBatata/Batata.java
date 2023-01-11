@@ -16,5 +16,3 @@ public class Batata extends Produto {
         this.tamanho = tamanho;
     }
 }
-
-
