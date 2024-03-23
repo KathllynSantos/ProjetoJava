@@ -1,3 +1,22 @@
+# Olá!👋🏾 Seja Bem Vindos(as) ao meu reposirotio Cardápio Lanchonete Sr. Batata 🥔
+
+Bem-vindo à lanchonete Sr. Batata 🥔, o lugar perfeito para os amantes de batatas encontrarem a combinação perfeita de sabor e crocância! Este cardápio foi desenvolvido como parte do bootcamp da Generation Brasil, onde os participantes exploraram a criação de sistemas e aplicações em Java.
+
+## Tamanhos Disponíveis:
+
+- **Junior:** Perfeito para um lanche rápido ou acompanhamento.
+- **Pleno:** Ideal para saciar a fome moderada.
+- **Senior:** Para os verdadeiros apaixonados por batatas!
+
+## Opções de Batata:
+
+1. **Tradicional:** A batata clássica, crocante por fora e macia por dentro.
+2. **Com Bacon:** Para os amantes de bacon, uma combinação irresistível!
+3. **Cheddar e Bacon:** Uma explosão de sabores com cheddar cremoso e bacon crocante.
+4. **Rústica:** Batatas cortadas de forma rústica, para uma experiência caseira.
+5. **Chips:** Batatas finamente fatiadas e fritas até a perfeição, um petisco delicioso!
+
+## Slide de apresentação do Projeto
 <div>
 <div align="center">
 
